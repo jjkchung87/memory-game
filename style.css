@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  text-align: center;
+
+}
+
+#game {
+  width: 90%;
+}
+
+#game div {
+  border: 1px solid black;
+  width: 20%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+ 
+
+/* #score-table, #start-button {
+  left: 50%;
+  transform: translateX(-50%);
+
+} */
